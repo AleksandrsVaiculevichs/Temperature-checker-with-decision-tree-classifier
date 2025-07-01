@@ -14,3 +14,9 @@ To begin with, a dataset from Kaggle was used, which contains temperature data a
 
 In the next stage of the project, a Decision Tree Classifier was used, which allows for the creation of detailed trees that make it possible to visualize how the model makes decisions. The Decision Tree Classifier offers three types of criteria, but in this case, two were used: Entropy and Gini. These models differ in the formulas they use for splitting nodes. As a result, one model may reach the goal faster, while the other may require more computational resources.
 
+## 📌 Third part:
+![image](https://github.com/user-attachments/assets/a79b9cbc-0446-4acf-bb4e-d8064222ddc6)
+![image](https://github.com/user-attachments/assets/687c87ca-9553-4074-a12f-df9ca3834a33)
+
+In the later stage, both models were trained on the dataset using an 80/20 split. During training, it became clear that the Gini model required at least 5 tree levels to achieve maximum performance across all classes, whereas the Entropy model needed only 4. As a result, two models were obtained, both capable of recognizing indoor temperature conditions.
+
