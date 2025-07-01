@@ -13,7 +13,6 @@ The main goal was to develop a model capable of analyzing temperature patterns a
 <br style="clear:both" />
 
 ## 📌 Second part:
-<div>
-  <img align="left" width="200" src="https://github.com/user-attachments/assets/9c22ec3d-9319-4f9e-90e0-0352da108222" />
-  In the next stage of the project, a Decision Tree Classifier was used, which allows for the creation of detailed trees that make it possible to visualize how the model makes decisions. The Decision Tree Classifier offers three types of criteria, but in this case, two were used: Entropy and Gini. These models differ in the formulas they use for splitting nodes. As a result, one model may reach the goal faster, while the other may require more computational resources.
+![alt text](https://github.com/user-attachments/assets/9c22ec3d-9319-4f9e-90e0-0352da108222)
+In the next stage of the project, a Decision Tree Classifier was used, which allows for the creation of detailed trees that make it possible to visualize how the model makes decisions. The Decision Tree Classifier offers three types of criteria, but in this case, two were used: Entropy and Gini. These models differ in the formulas they use for splitting nodes. As a result, one model may reach the goal faster, while the other may require more computational resources.
 </div>
